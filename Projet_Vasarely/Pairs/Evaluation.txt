@@ -1,0 +1,47 @@
+
+Emmanuel Confrere
+1 - La découpe est bien respectée.
+2 - Les fonctions sont toutes utilisées, cohérentes et de bonne taille.
+3 - Les noms sont bien clairs et l'indentation respectée.
+4 - Malgré un titre, le docstring initial ne contient pas 'ce que fait le programme'.
+5 - Les consignes sont bien respectées.
+6 - Le programme fonctionne toujours correctement avec plusieurs cas de test.
+7 - Je pense que le programme est bien structuré, organisé et commenté, le calcul des coordonnées de l'hexagone à partir d'un cercle est bien fait, les fonctions sont bien séparées.
+Beau travail.
+
+
+Xavier Fayolle
+1 - Cela n'est pas une règle mais une bonne pratique est d'avoir 2 sauts de ligne entre les fonctions, parfois il y a qu'un ou six, et le début du code principal il y en a 2, ok, mais sans aucun commentaire entre la fin de la fonction et le code principal ce qui laisse un peu confus.
+2 - Les fonctions sont toutes utilisées, cohérentes et de bonne taille.
+3 - Les noms sont bien clairs et l'indentation respectée.
+4 - Le docstring initial est manquant.
+5 - Les consignes sont bien respectées.
+6 - Le programme fonctionne toujours correctement avec plusieurs cas de test.
+7 - Le code principal commence par la partie graphique, en suite demande les entrées, en suite continue la parte graphique.
+Je pense qu'il pourrait être structuré pour avoir les parties entrée et exécution/graphique séparées.
+Les éléments d'un tuple peuvent être récupérés par l'index, quelques lignes pourraient être évitées.
+
+
+Cecilia Castelli
+1 - Je pense que l’enchainement de plusieurs sous-fonctions n'est pas une bonne pratique de découpage.
+Cela évite (ou au moins complique) la réutilisation.
+Mélange de variables et sous-variables de même nom.
+Fait grossir la taille de la fonction supérieur.
+2 - Trop d'assignation dans la fonction hexagone, cela fait dépasser la taille de 25 lignes.
+3 - La bonne pratique dit 'Pour une fonction qui ne renvoie pas de résultat, ne mettez pas de return'.
+4 - Le programme est bien commenté.
+5 - Les consignes sont bien respectées.
+6 - Le programme fonctionne toujours correctement avec plusieurs cas de test.
+7 - Je pense que le programme est bien structuré, organisé et commenté malgré les sous-fonctions.
+La fonction hexagone pourrait être découpé.
+Beau travail.
+
+
+Mon Retour
+Bonjour,
+merci pour ces commentaires, ils sont très pertinents.
+Je reste content en savoir qu'ils font référence plutôt à la partie esthétique du code et non à la technique ou fonctionnel.
+Je vous tiens à remercier toute l'équipe du cours pour l'excellent travail !
+Cette technique d'évaluation par les pairs est géniale, cela nous aide à comparer nos codes aux des autres.
+Merci beaucoup,
+bonne journée.
